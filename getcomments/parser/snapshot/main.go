@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/a-h/rest/getcomments/parser"
+	"github.com/watercat12/rest/getcomments/parser"
 )
 
 var flagPkg = flag.String("pkg", "", "Name of the package to process.")

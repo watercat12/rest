@@ -1,4 +1,4 @@
-module github.com/a-h/rest
+module github.com/watercat12/rest
 
 go 1.21
 
